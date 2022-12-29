@@ -1,8 +1,8 @@
 import express from "express";
 import session from "express-session";
 import bodyParser from "body-parser";
-import MongoStore from "connect-mongo";
-import DAOUsuarios from "./daos/UsuariosDAO.js";
+// import MongoStore from "connect-mongo";
+// import DAOUsuarios from "./daos/UsuariosDAO.js";
 import logger from "./logger.js";
 import compression from "compression";
 
